@@ -175,3 +175,6 @@
 [submodule "IconPacks/Twitchiger.CleanIcons"]
 	path = IconPacks/Twitchiger.CleanIcons
 	url = https://github.com/devTwitchiger/MacroDeckCleanIcons
+[submodule "IconPacks/Morbeck.LimePack"]
+	path = IconPacks/Morbeck.LimePack
+	url = https://github.com/morbeckp/macro-deck-iconpack
